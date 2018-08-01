@@ -8,4 +8,5 @@ def square_array(array)
    #binding.pry
    squared.push (number * number)
  end 
+ return squared
 end
